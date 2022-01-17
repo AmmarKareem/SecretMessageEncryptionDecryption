@@ -1,5 +1,5 @@
 # SecretMessageEncryptionDecryption in C
-A program that can encrypt and decrypt secret messages using a encryption formula based on bits of chars
+A program that can encrypt and decrypt secret messages using a encryption formula based on bit manipulation of chars
 
 Encryption is dependent on a secret key. Same secret key must be used to decrypt the message.
 
